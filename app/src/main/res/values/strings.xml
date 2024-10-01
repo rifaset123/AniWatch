@@ -1,0 +1,159 @@
+<resources>
+    <string name="app_name">AniWatch</string>
+    <string name="recommended_for_you">RECOMMENDED FOR YOU</string>
+    <string name="full_name">Rifa Indra Setiawan</string>
+    <string name="short_name">Rifa</string>
+    <string name="email_bangkit">a008b4ky3832@bangkit.academy</string>
+    <string name="group">MD - 47</string>
+    <string name="submission_akhir_aplikasi_android">Submission Akhir Aplikasi Android</string>
+
+    <string-array name="anime_list">
+        <item>Your Name</item>
+        <item>A Silent Voice</item>
+        <item>Demon Slayer</item>
+        <item>Weathering With You</item>
+        <item>A Whisker Away</item>
+        <item>Suzume no Tojimari</item>
+        <item>The Tunnel to Summer</item>
+        <item>Jujutsu Kaisen 0</item>
+        <item>Fireworks</item>
+        <item>Hello World</item>
+    </string-array>
+
+    <string-array name="anime_release_date">
+        <item>07 Dec 2016</item>
+        <item>03 May 2017</item>
+        <item>06 Jan 2021</item>
+        <item>21 Aug 2019</item>
+        <item>18 June 2020</item>
+        <item>08 March 2023</item>
+        <item>09 Sept 2022</item>
+        <item>24 Dec 2021</item>
+        <item>01 Nov 2017</item>
+        <item>20 Sept 2019</item>
+    </string-array>
+
+
+    <string-array name="anime_genre">
+        <item>Fantasy, Romance</item>
+        <item>Romance, Drama</item>
+        <item>Action, Fantasy</item>
+        <item>Romance</item>
+        <item>Drama</item>
+        <item>Romance, Drama</item>
+        <item>Fantasy, Romance</item>
+        <item>Action, Fantasy</item>
+        <item>Romance, Drama</item>
+        <item>Fantasy, Romance</item>
+    </string-array>
+
+    <string-array name="anime_rating">
+        <item>10/10</item>
+        <item>9/10</item>
+        <item>8/10</item>
+        <item>8/10</item>
+        <item>7/10</item>
+        <item>8/10</item>
+        <item>8/10</item>
+        <item>8/10</item>
+        <item>7/10</item>
+        <item>8/10</item>
+    </string-array>
+
+    <string-array name="anime_story">
+        <item>&#160; Your Name (Kimi no Na wa) is a Japanese animated film directed by Makoto Shinkai, blending romance, fantasy, and drama. The story follows two high school students, Mitsuha Miyamizu, a girl living in a rural town, and Taki Tachibana, a boy living in Tokyo, who mysteriously begin to swap bodies intermittently.
+            \n At first, they are confused by the body-swapping but gradually learn to communicate by leaving notes and messages for each other. They start to adapt to each other’s lives, forming a bond without ever meeting in person. However, their connection is threatened when the swaps abruptly stop.
+
+\n Taki, determined to find Mitsuha, begins searching for her, only to discover that her town was destroyed by a comet three years earlier. He realizes that Mitsuha and her town were living in the past. Desperate to save her, Taki revisits the body-swapping phenomenon and warns Mitsuha of the impending disaster.
+
+\n In a dramatic race against time, Mitsuha successfully evacuates her town, preventing the catastrophe. Although their memories of each other begin to fade, fate brings Taki and Mitsuha back together. Years later, they meet again in Tokyo, both feeling an inexplicable connection, and the film ends with them finally asking each other their names.
+
+\n The story explores themes of love, fate, and time, with stunning visuals and emotional depth that resonated with audiences worldwide.</item>
+        <item>&#160; A Silent Voice (Koe no Katachi) is a Japanese animated film directed by Naoko Yamada, based on the manga by Yoshitoki Ōima. The story follows Shoya Ishida, a boy who bullies his deaf classmate, Shoko Nishimiya, during elementary school. Shoko’s life becomes difficult due to the constant teasing, and she eventually transfers to another school. After her departure, Shoya classmates turn against him, isolating him as he faces the consequences of his actions.
+
+\n Years later, as a high school student, Shoya is deeply regretful and struggles with guilt and social anxiety. He isolates himself from others, convinced that he doesn’t deserve forgiveness or friendship. Determined to make amends, Shoya seeks out Shoko to apologize for his past behavior. Through a series of awkward yet heartfelt encounters, they slowly build a new friendship.
+
+\n As Shoya works to repair the emotional damage he caused, the film explores themes of redemption, forgiveness, and self-acceptance. Both Shoya and Shoko grapple with their personal struggles, leading to moments of profound growth. Ultimately, A Silent Voice delivers a powerful message about the importance of empathy and the long-lasting impact of our actions on others.</item>
+        <item>
+&#160; Demon Slayer Mugen Train follows Tanjiro Kamado and his friends as they board the Mugen Train to investigate a series of mysterious disappearances. Accompanied by the powerful Flame Hashira Kyojuro Rengoku they face Enmu a lower-rank demon of the Twelve Kizuki. Enmu uses his powers to put everyone on the train into a deep sleep trapping them in their dreams. Tanjiro and his companions must fight to wake up confront their inner struggles and defeat Enmu to protect the passengers.
+
+\n After defeating Enmu who fuses with the train itself Tanjiro and his friends are thrown into a deadly battle with Akaza an Upper Moon demon. Kyojuro engages in an intense fight with Akaza demonstrating his immense power and courage. Despite Kyojuro’s heroic efforts he suffers fatal injuries but leaves a lasting impact on Tanjiro. The film ends with Tanjiro vowing to continue the fight against demons in honor of Kyojuro’s sacrifice.</item>
+        <item> Weathering With You follows the story of Hodaka Morishima a runaway teenager who moves to Tokyo in search of a new life. Struggling to find work he eventually meets Hina Amano a girl with the mysterious ability to control the weather. She can bring sunshine amidst constant rain which is flooding the city. Together they start a business where Hina clears the skies for special events and people in need of sunshine.
+
+\n As they grow closer Hodaka learns that Hina’s power comes with a price. Each time she uses her weather abilities she sacrifices part of herself to the heavens. Eventually it is revealed that if she continues to use her powers Hina will disappear completely to restore balance to the weather.
+
+\n Faced with the choice of saving Hina or letting nature take its course Hodaka chooses to save her despite the consequences. In doing so Tokyo is left in perpetual rain but the two reunite. The film concludes with Hodaka and Hina embracing their fate together accepting the changes they have made in the world.</item>
+        <item>&#160; A Whisker Away tells the story of Miyo Sasaki a high school girl who feels unnoticed and struggles to express her feelings for her classmate Kento Hinode. One day she discovers a magical cat mask that allows her to transform into a cat. Embracing this new form Miyo uses her cat identity to get closer to Kento and to experience life as a cat.
+
+\n As she navigates her dual life Miyo begins to bond with Kento while also helping him with his own troubles. However the more she uses the mask the harder it becomes for her to return to her human form. Miyo soon learns that there are consequences to her choices as the line between her two lives begins to blur.
+
+\n Ultimately she must confront her feelings and make a choice between living as a cat or revealing her true self to Kento. The film beautifully explores themes of love identity and the courage it takes to be honest with oneself and others. In the end Miyo learns to embrace her true self and expresses her feelings for Kento, leading to a heartfelt resolution.</item>
+        <item> Suzume no Tojimari follows the journey of Suzume Iwato, a 17-year-old girl living in a rural town in Japan. One day, she encounters a mysterious young man named Sota who is searching for a door. Intrigued, Suzume follows him and discovers a magical door that leads to various disasters that threaten the world. As she learns about the significance of these doors, Suzume realizes that they are connected to her past and the tragic loss of her mother.
+
+\n In an effort to prevent calamities, Suzume joins Sota on a quest to close these doors across Japan. Along the way, they face challenges and uncover hidden truths about themselves and their families. As they travel, Suzume discovers her inner strength and resilience while grappling with her feelings of loss and longing.
+
+\n The film beautifully blends fantasy, adventure, and themes of healing, showcasing the importance of connection and understanding in overcoming grief. Ultimately, Suzume no Tojimari is a story about embracing someone past, the power of friendship, and the journey toward finding closure and hope for the future.</item>
+        <item>&#160; The Tunnel to Summer, the Exit of Goodbyes follows the story of a high school student named Anzu who discovers a mysterious tunnel that has the power to alter time. The tunnel allows individuals to experience moments from their past, but each time they enter, they lose a portion of their lifespan in exchange for reliving those memories.
+
+\n Anzu is haunted by the loss of his younger sister and is drawn to the tunnel in hopes of reconnecting with her. He meets a girl named Kaori, who also has her own reasons for exploring the tunnel. As they navigate their personal struggles and confront their grief, they form a bond that deepens through shared experiences and the weight of their choices.
+
+\n The film beautifully explores themes of nostalgia, loss, and the consequences of longing for the past. Anzu and Kaori must ultimately decide whether to continue using the tunnel for solace or to accept the pain of their memories and move forward in life. The story culminates in a powerful message about cherishing the present and the importance of letting go to embrace new beginnings.</item>
+        <item>Jujutsu Kaisen 0 serves as a prequel to the popular anime and follows the story of Yuta Okkotsu, a timid high school student haunted by the curse of his childhood friend Rika, who died in a tragic accident. After Rika death, Yuta becomes engulfed in guilt and grief as Rika curse transforms into a powerful, protective spirit that wreaks havoc on anyone who threatens Yuta.
+
+\n To gain control over his powers and find a way to break free from Rika’s curse, Yuta is enrolled in Tokyo Jujutsu High, where he meets other jujutsu sorcerers, including the charismatic Satoru Gojo and his classmates, Maki Zenin and Toge Inumaki. As Yuta learns to harness his abilities, he faces threats from other curses and the antagonistic group known as Mahito and Suguru Geto, who aim to exploit Yuta power.
+
+\n Throughout the film, Yuta journey involves self-discovery, friendship, and the struggle to accept his past while forging his own path as a jujutsu sorcerer. The film culminates in an intense confrontation with Geto, leading to Yuta’s ultimate decision regarding his connection to Rika and his place in the world of jujutsu sorcery, setting the stage for the events in the main Jujutsu Kaisen series.</item>
+        <item>&#160; Fireworks is a Japanese animated film directed by Akiyuki Shinbo that explores themes of adolescence, love, and the complexity of choices. The story follows a group of middle school students, particularly focusing on Norimichi Shimada and his crush, Nazuna Oikawa. On the day of a fireworks festival, Nazuna confesses her feelings to Norimichi, but their plans become complicated when she decides to run away with him to escape her troubled home life.
+
+\n As they navigate their emotions and the pressures of growing up, the film introduces a supernatural element: a magical ball that allows Norimichi to relive the same day repeatedly. Each time he tries to alter their choices in hopes of achieving a happier outcome, but each iteration reveals the complexities of their feelings and the inevitability of their circumstances.
+
+\n The film beautifully captures the fleeting nature of youth, the longing for connection, and the struggles of making decisions that could change the course of their lives. With stunning visuals and a poignant soundtrack, Fireworks ultimately serves as a reflection on the bittersweet moments of adolescence and the impact of choices on relationships.</item>
+        <item>&#160; Hello World is a Japanese animated film directed by Tomohiko Itō that combines elements of romance, science fiction, and fantasy. The story follows a high school student named Naomi Katagaki, who is introverted and struggles to connect with his classmates. One day, he meets a mysterious girl named Ruri Ichigo, who he learns is his future self sent back in time to prevent a tragic event that will change the course of their lives.
+
+\n As Naomi navigates his feelings for Ruri and tries to alter the future, he discovers that the world he inhabits is actually a virtual reality simulation, which raises questions about reality, fate, and free will. The film explores themes of love, loss, and the complexities of human relationships while weaving a narrative that challenges the boundaries between reality and the digital world.
+
+\n Throughout the film, the connection between Naomi and Ruri deepens as they work together to confront obstacles and ultimately seek a way to change their predetermined fate. With stunning animation and a captivating score, Hello World provides a unique blend of romance and existential inquiry, encouraging viewers to reflect on their own lives and the choices that shape them.</item>
+    </string-array>
+
+    <string-array name="anime_review">
+        <item>&#160; Kimi no Na wa (Your Name) is a visually stunning and emotionally captivating film that masterfully blends romance, fantasy, and drama. Directed by Makoto Shinkai, the movie tells a unique and heartwarming story about two teenagers who, through a mysterious body-swapping phenomenon, form a deep connection across time and space. The film breathtaking animation, beautifully crafted soundtrack by RADWIMPS, and complex themes of love, fate, and loss create an immersive experience that resonates with viewers. Its seamless balance of humor, emotional depth, and narrative twists makes Kimi no Na wa a standout in contemporary animation and a must-watch for fans of compelling storytelling.</item>
+        <item>&#160; A Silent Voice is a poignant and deeply moving film that explores complex themes of bullying, guilt, redemption, and mental health with a delicate, empathetic touch. Directed by Naoko Yamada, the film masterfully portrays the emotional journey of Shoya Ishida as he seeks forgiveness from his former classmate, Shoko Nishimiya, whom he bullied for her hearing impairment. With stunning animation, a beautifully subtle score, and nuanced character development, A Silent Voice offers a raw and authentic portrayal of the struggles of both the victim and the perpetrator of bullying. Its exploration of self-worth, the lasting impact of trauma, and the power of empathy makes it a profound and unforgettable experience.</item>
+        <item>&#160; Demon Slayer: Mugen Train is a thrilling and emotionally charged continuation of the Demon Slayer series, delivering stunning animation, intense action, and heartfelt character moments. Directed by Haruo Sotozaki, the film excels in both its breathtaking fight sequences and its exploration of deeper emotional themes, particularly through the story of Kyojuro Rengoku, whose bravery and selflessness resonate throughout the movie. The battles, especially against the Lower Moon demon Enmu and the formidable Upper Moon Akaza, are visually spectacular and gripping. At the same time, the film balances its intense action with poignant moments of vulnerability and loss, making it not only an exhilarating experience but also an emotionally impactful one. Mugen Train sets a high bar for anime films, perfectly capturing the essence of the series while expanding on its world with greater depth.</item>
+        <item>&#160; Weathering With You is a visually stunning and emotionally resonant film directed by Makoto Shinkai that explores themes of love, sacrifice, and the impact of climate change. The story of Hodaka and Hina beautifully intertwines the elements of fantasy and reality, showcasing their heartfelt connection amidst the backdrop of a rainy Tokyo. The breathtaking animation captures both the beauty of the weather and the emotions of the characters, drawing viewers into their world. The film poignant narrative highlights the struggles of youth and the power of love in the face of adversity, while also addressing the environmental challenges we face today. With a captivating score by Radwimps and a balance of humor and drama, Weathering With You is a compelling follow-up to Shinkai previous work, leaving audiences with a lasting impression of hope and resilience.</item>
+        <item>&#160; A Whisker Away is a charming and visually captivating film that explores the complexities of love, identity, and self-acceptance through a whimsical narrative. Directed by Junichi Sato and Tomotaka Shibayama, the story of Miyo Sasaki, who transforms into a cat to connect with her crush Kento, blends fantasy and heartfelt emotion in a unique way. The animation is vibrant and enchanting, bringing to life the magical world of the cats and the contrasting reality Miyo faces as a high school girl. With its beautiful storytelling and emotional depth, A Whisker Away leaves viewers reflecting on the importance of being true to oneself while navigating the complexities of relationships.</item>
+        <item>&#160; Suzume no Tojimari is a visually stunning and emotionally resonant film directed by Makoto Shinkai that weaves together themes of loss, resilience, and the power of connection. The story follows Suzume Iwato as she embarks on a transformative journey to close mystical doors that lead to disasters, ultimately exploring her own grief and the significance of her past. Shinkai breathtaking animation captures the beauty of Japan landscapes and the fantastical elements of the narrative, immersing viewers in a captivating world. The character development is rich, particularly in Suzume evolution as she confronts her emotions and learns to embrace her strength.</item>
+        <item>&#160; The Tunnel to Summer, the Exit of Goodbyes is a thought-provoking and emotionally charged film that explores the complexities of grief, nostalgia, and the passage of time. Directed by Tomohisa Taguchi, the story follows Anzu as he grapples with the loss of his sister while discovering a mysterious tunnel that allows him to revisit the past at the cost of his lifespan. The film beautifully captures the bittersweet nature of memories, highlighting the struggle between holding on to the past and moving forward. The character development is poignant, particularly in the relationship between Anzu and Kaori, which adds depth to the narrative as they navigate their shared experiences and personal losses. With its stunning animation and a heartfelt score, The Tunnel to Summer delivers a powerful message about the importance of embracing the present and the inevitability of change, leaving viewers with a sense of reflection and hope.</item>
+        <item>&#160; the main series, delivering a compelling narrative filled with intense action, emotional depth, and captivating character development. Directed by Sunghoo Park, the film centers around Yuta Okkotsu, whose journey from a haunted, timid teenager to a powerful jujutsu sorcerer is both heart-wrenching and inspiring. The animation is stunning, with dynamic fight sequences and beautifully rendered curse battles that keep viewers on the edge of their seats. The film also explores profound themes of grief, friendship, and self-acceptance, particularly through Yuta relationship with Rika, his cursed childhood friend. With a strong supporting cast, including the charismatic Satoru Gojo, Jujutsu Kaisen 0 seamlessly blends action and emotional storytelling, making it a must-watch for fans and newcomers alike, while setting a high bar for future installments in the franchise.</item>
+        <item>&#160; Fireworks is a visually stunning and emotionally charged film that captures the essence of adolescence and the bittersweet nature of first love. Directed by Akiyuki Shinbo, the film beautifully blends vibrant animation with a thought-provoking narrative that explores themes of choice, longing, and the complexities of growing up. The story follows Norimichi Shimada and his crush, Nazuna Oikawa, as they navigate their feelings and the pressures of their lives during a fireworks festival. The introduction of a magical element, allowing Norimichi to relive the same day, adds a captivating layer to the plot, emphasizing the significance of choices and their consequences. The film breathtaking visuals, combined with a hauntingly beautiful soundtrack, create an immersive experience that resonates with viewers. Ultimately, Fireworks serves as a poignant reminder of the fleeting moments of youth and the profound impact of love and connection, leaving audiences reflecting on their own memories and choices.</item>
+        <item>&#160; Hello World is a captivating and thought-provoking anime film that masterfully blends romance, science fiction, and existential themes. Directed by Tomohiko Itō, the story follows high school student Naomi Katagaki as he navigates the complexities of love and self-discovery while trying to alter a tragic fate with the help of his future self, Ruri Ichigo. The film is unique premise of a virtual reality world adds a compelling layer of intrigue, prompting viewers to ponder the nature of reality and the impact of choices on one life. The animation is visually stunning, with vibrant colors and beautifully rendered scenes that enhance the emotional depth of the narrative. As Naomi and Ruri relationship evolves, the film skillfully explores the themes of connection, loss, and the desire to change one destiny. Hello World ultimately leaves a lasting impression, encouraging audiences to reflect on their own choices and the fleeting nature of time and relationships.</item>
+    </string-array>
+
+    <string-array name="anime_image">
+        <item>https://upload.wikimedia.org/wikipedia/id/0/0b/Your_Name_poster.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/3/32/A_Silent_Voice_Film_Poster.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/2/21/Kimetsu_no_Yaiba_Mugen_Ressha_Hen_Poster.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMzU0NTAwZjgtZTQxYy00MmUwLWE0ZGQtOWIwZDdjOTIzZWMzXkEyXkFqcGc@._V1_.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/d/df/Nakitai_Watashi_wa_Neko_o_Kaburu_poster.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/7/7f/Suzume_no_Tojimari_poster.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/b/b7/The_Tunnel_to_Summer%2C_the_Exit_of_Goodbye.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/7/77/Gekij%C5%8D-ban_Jujutsu_Kaisen_0.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/0/02/FireworksAnimeFilm.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/a/a8/HELLOWORLD.jpg</item>
+    </string-array>
+
+    <string-array name="anime_image_wallpaper">
+        <item>wp_1_yourname</item>
+        <item>wp_2_silent</item>
+        <item>wp_w_demon</item>
+        <item>wp_4_weather</item>
+        <item>wp_5_whisker</item>
+        <item>wp_6_suzume</item>
+        <item>wp_7</item>
+        <item>wp_8</item>
+        <item>wp_9_fireworks</item>
+        <item>wp_10_hello</item>
+
+    </string-array>
+
+
+</resources>

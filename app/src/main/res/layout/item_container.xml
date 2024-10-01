@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="15dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layout_anime">
+
+    <ImageView
+        android:id="@+id/imageAnime"
+        android:layout_width="135dp"
+        android:layout_height="185dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:riv_corner_radius="12dp" />
+
+    <TextView
+        android:id="@+id/animeTitle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/roboto_bold"
+        android:text="Kimi No Na Wa"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:layout_marginStart="15dp"
+        android:textAlignment="textStart"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageAnime" />
+
+    <TextView
+        android:id="@+id/animeReleaseDate"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/roboto_medium"
+        android:layout_marginTop="10dp"
+        android:text="Juni 2017"
+        android:textSize="15sp"
+        app:layout_constraintStart_toStartOf="@+id/animeTitle"
+        app:layout_constraintTop_toBottomOf="@+id/animeTitle" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-2dp"
+        android:background="@drawable/baseline_star_24"
+        android:contentDescription="rating"
+        app:layout_constraintEnd_toStartOf="@+id/animeRating"
+        app:layout_constraintTop_toTopOf="@+id/animeReleaseDate" />
+
+    <TextView
+        android:id="@+id/animeRating"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="2dp"
+        android:fontFamily="@font/roboto_medium"
+        android:textAlignment="textEnd"
+        android:text="9/10"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/imageView" />
+
+    <TextView
+        android:id="@+id/animeGenre"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/roboto_medium"
+        android:layout_marginTop="5dp"
+        android:text="Fantasy, Drama"
+        android:textSize="15sp"
+        app:layout_constraintStart_toStartOf="@+id/animeTitle"
+        app:layout_constraintTop_toBottomOf="@+id/animeReleaseDate"/>
+
+    <TextView
+        android:id="@+id/animeOverview"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/roboto_medium"
+        android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+sed do eiusmod tempor incididunt ut labore et dolore
+magna aliqua. Ut enim ad minim veniam, quis nostrud
+exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in"
+        android:maxLines="4"
+        android:ellipsize="end"
+        android:layout_marginTop="10dp"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/animeTitle"
+        app:layout_constraintTop_toBottomOf="@+id/animeGenre" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
